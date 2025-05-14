@@ -92,7 +92,7 @@ Durante il test, i LED lampeggiano alternativamente per segnalare pericolo.
 
 ---
 
-## 🧮 Guida alla Calibrazione //se necessaria
+## 🧮 Guida alla Calibrazione //se necessaria (vedi cartella calibrazione)
 
 Per calibrare le celle di carico, utilizza lo sketch separato `cell_calibration.ino`:
 
