@@ -227,4 +227,4 @@ lift-up-thrust-stand/
 
 Sviluppato da **Claudio Di Bartolo** nell’ambito del **Progetto LiftUp** presso l’**Università di Padova**.
 
-Contatti: [claudiodb42@gmail.com](mailto:claudiodb42@gmail.com) – @Klaus\_00
+Contatti: [claudiodb42@gmail.com](mailto:claudio.dibartolo@studenti.unipd.it) – @Klaus-00
