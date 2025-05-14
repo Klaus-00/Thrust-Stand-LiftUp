@@ -205,20 +205,20 @@ Ogni valore rappresenta:
 lift-up-thrust-stand/
 ├── README.md
 ├── firmware/
+│   ├── Guida_Firmware.md
 │   └── thrust_stand_may2025.ino
 ├── calibration/
+│   ├── Guida_Calibrazione.md
 │   └── cell_calibration.ino
 ├── hardware/
-│   ├── PCB_PCB_liftup_2.pdf
+│   ├── Guida_Hardware.md
+│   ├── gerber_pcb_liftup.zip
+│   ├── PDF_PCB_liftup.pdf
 │   └── immagini/
 │       ├── pcb_fronte.jpg
 │       ├── banco_laterale.jpg
 │       └── setup_completo.jpg
-├── docs/
-│   ├── guida_utente.md
-│   ├── guida_calibrazione.md
-│   └── guida_hardware.md
-└── LICENSE
+└── 
 ```
 
 ---
